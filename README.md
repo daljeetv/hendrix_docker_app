@@ -14,7 +14,8 @@ docker-compose up
 # Then get ip address by running:
 
 docker default ip
-{ip_address}
+
+>>{ip_address}
 
 And go to the {ip_address}:8000 in local browser.
 
